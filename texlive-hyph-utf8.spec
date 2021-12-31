@@ -1,13 +1,13 @@
 Name:		texlive-hyph-utf8
-Version:	20190406
+Version:	58619
 Release:	1
 Summary:	Hyphenation patterns expressed in UTF-8
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/language/hyph-utf8
 License:	OTHER-FREE
-Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hyph-utf8.tar.xz
-Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hyph-utf8.doc.tar.xz
-Source2:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hyph-utf8.source.tar.xz
+Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hyph-utf8.r%{version}.tar.xz
+Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hyph-utf8.doc.r%{version}.tar.xz
+Source2:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hyph-utf8.source.r%{version}.tar.xz
 Source10:	%{name}.rpmlintrc
 BuildArch:	noarch
 BuildRequires:	texlive-tlpkg
