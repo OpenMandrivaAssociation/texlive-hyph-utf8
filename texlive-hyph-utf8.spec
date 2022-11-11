@@ -1,5 +1,5 @@
 Name:		texlive-hyph-utf8
-Version:	58619
+Version:	61719
 Release:	1
 Summary:	Hyphenation patterns expressed in UTF-8
 Group:		Publishing
@@ -28,12 +28,12 @@ UTF-8 patterns, with their converters, will completely supplant
 the older patterns.
 
 %post
-    %{_sbindir}/texlive.post
+%{_sbindir}/texlive.post
 
 %postun
-    if [ $1 -eq 0 ]; then
+if [ $1 -eq 0 ]; then
 	%{_sbindir}/texlive.post
-    fi
+fi
 
 #-----------------------------------------------------------------------
 %files
