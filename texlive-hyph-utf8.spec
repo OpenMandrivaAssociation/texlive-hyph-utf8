@@ -3,7 +3,7 @@ Version:	61719
 Release:	2
 Summary:	Hyphenation patterns expressed in UTF-8
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/language/hyph-utf8
+URL:		https://www.ctan.org/tex-archive/language/hyph-utf8
 License:	OTHER-FREE
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hyph-utf8.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hyph-utf8.doc.r%{version}.tar.xz
