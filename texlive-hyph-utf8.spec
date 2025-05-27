@@ -1,6 +1,6 @@
 Name:		texlive-hyph-utf8
-Version:	61719
-Release:	2
+Version:	74823
+Release:	1
 Summary:	Hyphenation patterns expressed in UTF-8
 Group:		Publishing
 URL:		https://www.ctan.org/tex-archive/language/hyph-utf8
